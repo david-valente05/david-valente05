@@ -64,5 +64,3 @@ Feel free to reach out if you'd like to connect, collaborate, or just talk tech.
 - 📧 Email: `davidvalente.dev@outlook.com`
 - 🐙 GitHub: [@david-valente05](https://github.com/david-valente05)
 - 💼 LinkedIn: *(add when ready)*
-
----
